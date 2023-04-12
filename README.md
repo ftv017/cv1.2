@@ -1,2 +1,2 @@
 # cv1.2
-https://github.com/ftv017/cv1.2.git
+https://ftv017.github.io/cv1.2/
